@@ -17,4 +17,5 @@ Simple node server using [Braintree server SDK](https://developers.braintreepaym
 
 To run:
 1. Run ``npm install``
-2. ``node btserver.js``
+2. Replace the Braintree keys with your own
+3. ``node btserver.js``
