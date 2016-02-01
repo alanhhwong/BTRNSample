@@ -16,6 +16,7 @@ Simple node server using [Braintree server SDK](https://developers.braintreepaym
 2. Create transaction using a payment method nonce
 
 To run:
+
 1. Run ``npm install``
-2. Replace the Braintree keys with your own
+2. Replace the Braintree keys with your own (In Braintree control panel: Account->My User->View Authorizations->Click on Public Key->Select Node->copy)
 3. ``node btserver.js``
