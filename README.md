@@ -4,9 +4,9 @@ Sample react native app that uses react-native-braintree module to accept paymen
 ## Client
 React native client built using [react-native-braintree](https://github.com/alawong/react-native-braintree) module
 
-1. Run ``npm install``
+1. Run ``npm install``in both ``Client`` and ``Server``
 2. Open ``ios/BTRNSample.xcworkspace`` in Xcode
-3. Run react native packager if not already started (``npm start``)
+3. Run react native packager if not already started (``npm start`` in ``Client`` folder))
 4. Build and run iOS app
 
 ## Server
